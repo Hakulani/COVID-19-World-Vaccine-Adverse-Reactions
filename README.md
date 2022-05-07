@@ -9,4 +9,5 @@ objective
 1.Shows the number of incidents of severe side effects from daily COVID-19 vaccination from 01/01/2021 to 03/19/2021.
 2.Show statistics on the number of populations with severe side effects from vaccination by state.
 3.Show the number of people with severe side effects from vaccination. by vaccine manufacturer
-https://github.com/Hakulani/COVID-19-World-Vaccine-Adverse-Reactions/issues/1
+![01](https://user-images.githubusercontent.com/61573397/167261367-454dcc64-3668-4a0d-be6d-2806e645ef89.JPG)
+
